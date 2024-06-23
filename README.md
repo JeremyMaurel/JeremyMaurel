@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi there ! I'm Jérémy Maurel, a curious Web Developer ! <br><br>🔭 I’m currently searching an apprenticeship contract<br>     📆 Which starts on October 14, 2024 and lasts 20 months<br><br>🎓I'm preparing a french professional DWWM (Web & Web Mobile Developer) title<br><br>🌱 I’m currently studying Web Development with [O'Clock](https://oclock.io/) school <br><br>👀 You can see my portfolio [here](https://jeremymaurel.github.io/) and my resume [here](https://drive.google.com/file/d/1eaRX83oL1VdygLHakJQ8Csw6EzmZjqij/view?usp=sharing). <br><br>📞 Feel free to contact me !
+👋Hi there ! I'm Jérémy Maurel, a curious Web Developer ! <br><br>🔭 I’m currently searching an apprenticeship contract<br>     📆 Which starts on September, 2024 and lasts 12 months<br><br>🎓I'm preparing a french professional DWWM (Web & Web Mobile Developer) title<br><br>🌱 I’m currently studying Web Development with [O'Clock](https://oclock.io/) school <br><br>👀 You can see my portfolio [here](https://jeremymaurel.github.io/) and my resume [here](https://drive.google.com/file/d/1eaRX83oL1VdygLHakJQ8Csw6EzmZjqij/view?usp=sharing). <br><br>📞 Feel free to contact me !
 
 
 ## 🌐 Socials:
